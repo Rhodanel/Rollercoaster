@@ -1,7 +1,7 @@
 # Rollercoaster
-Python application for rollercoaster users
-This is a simple python application which tells the user who can ride a rollercoaster based on the height and age provided. It also tells them how much they need to pay for the ride.
-Once the user runs the application, they are welcomed and an input function asks for their height in cms.
+Python application for rollercoaster users.
+This is a simple python application which tells its user who can ride a rollercoaster based on the height and age provided. It also tells them how much they need to pay for the ride.
+Once the user runs the application, they are welcomed then an input function asks for their height in cms.
 If the height is greater than or equal to 120, then the get the response saying they can ride the roller coaster.
 Another input function prompts them to provide their age. 
 If their age is less than or equal to 12, they will get a response saying their fee will be $10
